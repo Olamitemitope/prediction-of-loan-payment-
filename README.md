@@ -7,21 +7,21 @@ Import required libraries
  
  2. Data Wrangling with google colab notebook.
  
-·      Data gathering with pandas library.
-·      Assess the data to check for quality and tidiness issues.
-·      Cleaning the data based on above detected issues
+·  Data gathering with pandas library.
+·  Assess the data to check for quality and tidiness issues.
+·  Cleaning the data based on above detected issues
  
-      Exploratory Analysis – pandas, matplotlib and seaborn
+ Exploratory Analysis – pandas, matplotlib and seaborn
  
-·      Check for statistical properties
-·      Plot distribution and multivariate visuals
-·      Plot correlation heat map
-·      Check pairplot of the features
+· Check for statistical properties
+· Plot distribution and multivariate visuals
+· Plot correlation heat map
+· Check pairplot of the features
  
-      Convert categorical features - pandas
-·      One hot coding
+  Convert categorical features - pandas
+· One hot coding
  
-      Split into train and validation set.
+Split into train and validation set.
  
  Train the Model – Scikit learn.
  
